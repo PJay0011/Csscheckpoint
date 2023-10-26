@@ -1,7 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
-    font-family: 'poppins', sans-serif;
+   ;font-family: 'Roboto', sans-serif;
 }
 .header{
     min-height: 100vh;
@@ -25,7 +25,7 @@ nav img{
     margin: 1px 0 0 5px;
     color: rgb(146, 156, 158);
     font-weight: 600;
-    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Roboto', sans-serif;
 }
 .nav-links{
     flex: 1;
@@ -65,7 +65,7 @@ nav img{
 }
 .text-box h1{
     font-size: 75px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Roboto', sans-serif;
 }
 .text-box p{
     margin: 10px 0 40px;
@@ -150,7 +150,7 @@ nav img{
    flex-basis: 31%;
    margin-bottom: 3%;
    margin-right: -4.9%;
-   font-family: Georgia, Times, 'Times New Roman', serif;
+   font-family: 'Roboto', sans-serif;
 }
 .col-lg-4 h3{
     font-size: 22px;
